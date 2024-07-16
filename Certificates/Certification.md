@@ -3,7 +3,7 @@
 ## 🎓 Certifications
 
 - **CertNexus Certified Ethical Emerging Technologist**  
-  [Link to Certificate](https://www.certnexus.com/certification/certified-ethical-emerging-technologist/)  
+  [Link to Certificate](file:///E:/%E1%BA%A2nh%20ch%E1%BB%A9ng%20ch%E1%BB%89/Java%20Enterprise%20Edition.pdf)  
   *Certified in ethical practices for emerging technologies.*
 
 - **Web Design for Everybody: Basics of Web Development & Coding**  
