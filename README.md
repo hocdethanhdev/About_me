@@ -1,21 +1,74 @@
-# Hi 👋, I'm Tran Huu Tri 
-Welcome to my GitHub profile! I'm a dedicated **developer with a passion for technology** based in Ho Chi Minh City. Currently, I'm studying **SAP** at **FPT University HCM**. 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🚀 About Me
-- 🔭 I’m currently working on **[Hello Milky Shop](https://github.com/hocdethanhdev/Hello-Milky-Shop.git)**
-- 🌱 I’m currently learning **[SAP - System Application Programing]**
-- 📫 How to reach me: **tritrann03@gmail.com** / **trithse172306@fpt.edu.vn**
+<div align=center>
+<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋+there+I'm+Tran+Huu+Tri;System+Application+Programing;" alt="Headline" />
+    </div>
 
-## 🛠️ Technologies & Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-black?style=flat-square&logo=microsoftsqlserver)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![HTML](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">"Passionate about technology and always eager to explore new things."</h2></summary>
+  </ul>
+</div>
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/trí-trần-02736a285)
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<br><br>
+- 🔭 I’m currently studying **SAP - System Application Programing at FPT UNIVERSITY Ho Chi Minh.**
+- 📫 Feel free to reach me out **tritrann03@gmail.com**
+
+
+<p align="center">
+
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=hocdethanhdev&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="hocdethanhdev" src="https://github-readme-streak-stats.herokuapp.com/?user=hocdethanhdev&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hocdethanhdev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+</p>        
+
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,cpp,css,figma,firebase,github,html,java,js,nginx,mysql,react,tailwind,ts,vscode,kubernetes&perline=14" />
+  </a>
+</p>
+
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2></summary>
+  </ul>
+</div>
+
+<p align="center">
+<a href = "https://www.linkedin.com/in/trí-trần-02736a285/"> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://github.com/hocdethanhdev'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+</p>
+
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=hocdethanhdev&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+----------------------------------------------------------------------
